@@ -50,8 +50,8 @@ To build a **data-driven model** capable of predicting gold prices using histori
 
 >  This project is for educational and portfolio demonstration only. Redistribution or reuse without permission is prohibited.
 
-## 👩‍💻 Author
+## Author
 **Andrea** — BCA Computer Science graduate passionate about data-driven problem-solving and intelligent systems.
 
-## 🪪 License
+## License
 This project is covered under the **Portfolio Use License** (see LICENSE file for details).
